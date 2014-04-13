@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Extractor Plug-in
+Bundle-SymbolicName: Extractor;singleton:=true
+Bundle-Version: 1.0.0
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.jdt.core,
+ org.eclipse.core.resources,
+ org.eclipse.jdt.launching
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ClassPath: .,
+ lib/sourcerer-lib.jar,
+ lib/asm-4.0_RC2.jar,
+ lib/mysql-connector-java-5.1.7-bin.jar,
+ lib/guava-11.0.1.jar,
+ lib/juniversalchardet-1.0.3.jar

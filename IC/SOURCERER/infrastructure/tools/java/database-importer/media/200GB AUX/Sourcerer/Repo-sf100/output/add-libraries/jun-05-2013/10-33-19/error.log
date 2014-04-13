@@ -1,0 +1,6 @@
+[10:33:19.381 - INFO] add-libraries
+[10:33:19.385 - INFO] Importing Java libraries...
+[10:33:19.408 - INFO]   Loading extracted Java repository from: /media/200GB AUX/Sourcerer/Repo-sf100...
+[10:33:19.414 - SEVERE] Invalid repository type: edu.uci.ics.sourcerer.tools.core.repo.model.ModifiableSourceRepository
+[10:33:19.414 - INFO]    Finished loading extracted java repository from: /media/200gb aux/sourcerer/repo-sf100 in 0.0 seconds.
+[10:33:19.414 - INFO]  Finished importing java libraries in 0.0 seconds.

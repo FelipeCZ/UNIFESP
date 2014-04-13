@@ -1,0 +1,80 @@
+[10:34:30.324 - INFO] add-libraries
+[10:34:30.328 - INFO] Importing Java libraries...
+[10:34:30.349 - INFO]   Loading extracted Java repository from: /media/200GB AUX/Sourcerer/Repo-sf100/output...
+[10:34:30.353 - INFO]    Finished loading extracted java repository from: /media/200gb aux/sourcerer/repo-sf100/output in 0.0 seconds.
+[10:34:30.631 - INFO]   Reading lines...
+[10:34:30.797 - INFO]    11 lines read in 0.1 seconds.
+[10:34:30.811 - INFO]   Performing entity import with 1 threads...
+[10:34:31.202 - TINFO]     Thread Thread-1 now processing: zipfs.jar
+[10:34:32.298 - TINFO]     Thread Thread-1 now processing: charsets.jar
+[10:34:34.492 - TINFO]     Thread Thread-1 now processing: localedata.jar
+[10:34:34.962 - TINFO]     Thread Thread-1 now processing: rt.jar
+[10:35:48.996 - TINFO]     Thread Thread-1 now processing: jsse.jar
+[10:35:49.950 - TINFO]     Thread Thread-1 now processing: jce.jar
+[10:35:50.428 - TINFO]     Thread Thread-1 now processing: sunjce_provider.jar
+[10:35:51.250 - TINFO]     Thread Thread-1 now processing: dnsns.jar
+[10:35:51.628 - TINFO]     Thread Thread-1 now processing: resources.jar
+[10:35:51.928 - TINFO]     Thread Thread-1 now processing: sunec.jar
+[10:35:52.273 - TINFO]     Thread Thread-1 now processing: sunmscapi.jar
+[10:35:52.920 - INFO]    Finished performing entity import with 1 threads in 1 minute 22.21 seconds.
+[10:35:52.956 - INFO]   Building unknown entities cache...
+[10:35:52.956 - INFO]     Loading unknown entities...
+[10:35:52.959 - INFO]      0 unknown entities loaded in 0.0 seconds.
+[10:35:52.959 - INFO]    Finished building unknown entities cache in 0.0 seconds.
+[10:35:53.004 - INFO]   Building Java library type model...
+[10:35:53.004 - INFO]     Loading Java library entities...
+[10:35:54.020 - SEVERE] Duplicate FQN: sun.text.resources
+[10:35:54.146 - SEVERE] Duplicate FQN: sun.io
+[10:35:54.153 - SEVERE] Duplicate FQN: sun.awt
+[10:35:54.237 - SEVERE] Duplicate FQN: sun.util.resources
+[10:35:54.254 - SEVERE] Duplicate FQN: sun.security.rsa
+[10:35:54.256 - SEVERE] Duplicate FQN: sun.security.provider
+[10:35:54.259 - SEVERE] Duplicate FQN: sun.security.ec
+[10:35:54.259 - INFO]      214285 entities loaded in 1.12 seconds.
+[10:35:54.260 - INFO]     Loading has_base_type relations...
+[10:35:54.262 - INFO]      0 relations loaded in 0.0 seconds.
+[10:35:54.262 - INFO]     Loading extends/implements relations...
+[10:35:54.264 - INFO]      0 relations loaded in 0.0 seconds.
+[10:35:54.264 - INFO]    Finished building java library type model in 1.12 seconds.
+[10:35:54.265 - INFO]   Performing structural relation import with 1 threads...
+[10:35:54.321 - TINFO]     Thread Thread-3 now processing: zipfs.jar
+[10:36:06.980 - TINFO]     Thread Thread-3 now processing: charsets.jar
+[10:36:15.490 - TINFO]     Thread Thread-3 now processing: localedata.jar
+[10:36:16.268 - TINFO]     Thread Thread-3 now processing: rt.jar
+[11:05:09.640 - TINFO]     Thread Thread-3 now processing: jsse.jar
+[11:05:36.290 - TINFO]     Thread Thread-3 now processing: jce.jar
+[11:05:40.890 - TINFO]     Thread Thread-3 now processing: sunjce_provider.jar
+[11:05:46.652 - TINFO]     Thread Thread-3 now processing: dnsns.jar
+[11:05:50.639 - TINFO]     Thread Thread-3 now processing: resources.jar
+[11:05:50.931 - TINFO]     Thread Thread-3 now processing: sunec.jar
+[11:05:53.216 - TINFO]     Thread Thread-3 now processing: sunmscapi.jar
+[11:05:56.421 - INFO]    Finished performing structural relation import with 1 threads in 30 minutes 2.21 seconds.
+[11:05:56.455 - INFO]   Building Java library type model...
+[11:05:56.456 - INFO]     Loading Java library entities...
+[11:05:57.297 - SEVERE] Duplicate FQN: sun.text.resources
+[11:05:57.339 - SEVERE] Duplicate FQN: sun.io
+[11:05:57.349 - SEVERE] Duplicate FQN: sun.awt
+[11:05:57.434 - SEVERE] Duplicate FQN: sun.util.resources
+[11:05:57.448 - SEVERE] Duplicate FQN: sun.security.rsa
+[11:05:57.450 - SEVERE] Duplicate FQN: sun.security.provider
+[11:05:57.451 - SEVERE] Duplicate FQN: sun.security.ec
+[11:05:57.452 - INFO]      214285 entities loaded in 0.9 seconds.
+[11:05:57.452 - INFO]     Loading has_base_type relations...
+[11:05:57.461 - INFO]      2299 relations loaded in 0.0 seconds.
+[11:05:57.461 - INFO]     Loading extends/implements relations...
+[11:05:57.636 - INFO]      18985 relations loaded in 0.1 seconds.
+[11:05:57.637 - INFO]    Finished building java library type model in 1.11 seconds.
+[11:05:57.637 - INFO]   Performing referential relation import with 1 threads...
+[11:05:57.646 - TINFO]     Thread Thread-4 now processing: zipfs.jar
+[11:06:02.372 - TINFO]     Thread Thread-4 now processing: charsets.jar
+[11:06:12.240 - TINFO]     Thread Thread-4 now processing: localedata.jar
+[11:06:13.341 - TINFO]     Thread Thread-4 now processing: rt.jar
+[11:24:52.517 - TINFO]     Thread Thread-4 now processing: jsse.jar
+[11:25:06.688 - TINFO]     Thread Thread-4 now processing: jce.jar
+[11:25:09.286 - TINFO]     Thread Thread-4 now processing: sunjce_provider.jar
+[11:25:11.192 - TINFO]     Thread Thread-4 now processing: dnsns.jar
+[11:25:12.373 - TINFO]     Thread Thread-4 now processing: resources.jar
+[11:25:12.562 - TINFO]     Thread Thread-4 now processing: sunec.jar
+[11:25:12.962 - TINFO]     Thread Thread-4 now processing: sunmscapi.jar
+[11:25:14.292 - INFO]    Finished performing referential relation import with 1 threads in 19 minutes 16.66 seconds.
+[11:25:14.292 - INFO]  Finished importing java libraries in 50 minutes 43.39 seconds.
